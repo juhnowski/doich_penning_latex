@@ -1,0 +1,37 @@
+\documentclass[11pt]{report}
+	\usepackage{ucs} 
+	\usepackage[utf8x]{inputenc} % Включаем поддержку UTF8  
+	\usepackage[russian]{babel}  % Включаем пакет для поддержки русского языка 
+	\usepackage {mathtext}
+	\usepackage{amsmath, amssymb}
+	\usepackage{graphicx}
+	\usepackage{listings}
+	\usepackage{hyperref}
+	\usepackage{revsymb}
+	\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=cyan,
+	}
+	\urlstyle{same}
+	\DeclareGraphicsExtensions{.pdf,.png,.jpg,.jpeg}
+	\setcounter{MaxMatrixCols}{20}
+	\graphicspath{{pictures/}}
+    \title{\textbf{Линейный предел для квантового компьютера}}
+    \author{И.А.Юхновский, к.т.н. Ю.И.Аношкин}
+    \date{сентябрь 2020}
+    
+    \addtolength{\topmargin}{-3cm}
+    \addtolength{\textheight}{3cm}
+
+
+\begin{document}
+
+\section {Ядерные силы}
+
+Пион, пи-мезон - три вида мезонов, обозначающихся как 
+ 
+
+\end{document}
+
